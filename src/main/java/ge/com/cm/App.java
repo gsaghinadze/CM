@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
+//sample coomnet
 @SpringBootApplication
 @EnableAutoConfiguration
 @ComponentScan("ge.com")
