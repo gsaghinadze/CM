@@ -1,0 +1,121 @@
+[ERROR] 2016-09-21 09:42:59 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 09:43:16 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 09:44:21 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 11:03:42 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 11:04:20 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 11:54:08 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 11:56:09 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 11:56:26 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectGaragecar called!!!
+[INFO ] 2016-09-21 11:58:06 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 11:58:16 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectGaragecar called!!!
+[ERROR] 2016-09-21 11:58:30 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 11:59:07 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectGaragecar called!!!
+[INFO ] 2016-09-21 12:09:00 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:10:45 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:12:25 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:13:37 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:42:11 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:43:52 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:54:12 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:56:44 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 12:58:26 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 13:18:18 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 14:04:56 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 14:12:12 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:14:46 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:15:01 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:15:44 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:17:45 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:19:32 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:20:26 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:20:35 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:22:02 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:22:15 [http-nio-8080-exec-8] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:23:24 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:26:21 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 14:33:53 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 14:34:21 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 14:35:31 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 14:35:52 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:36:14 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:36:28 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:36:28 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:37:09 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:39:06 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:39:45 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:39:52 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:40:01 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:40:01 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:40:06 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:41:45 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:41:57 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:42:01 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:42:05 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:42:09 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:42:15 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:44:40 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 14:49:41 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 16:27:34 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 16:27:44 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 16:29:41 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 16:30:00 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 16:30:13 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 16:30:57 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 16:31:10 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 16:58:54 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:00:33 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:01:23 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:02:50 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:02:57 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:04:01 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:05:08 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:06:32 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:07:25 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-21 17:10:07 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 17:11:06 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 17:12:28 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 17:12:36 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 17:13:18 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 17:13:25 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 17:32:44 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 17:34:24 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:34:43 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:35:00 [http-nio-8080-exec-8] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 17:38:35 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 17:38:44 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:38:48 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:38:50 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:39:13 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:39:54 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:40:45 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:44:54 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:45:31 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:45:33 [http-nio-8080-exec-8] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:46:03 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:46:08 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:46:48 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 17:51:30 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:17:14 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:17:29 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:20:54 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:21:22 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:21:28 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:21:39 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:22:16 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:35:05 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:35:10 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:35:16 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:35:20 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:35:47 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:36:02 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:36:05 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:36:29 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:37:01 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:37:05 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:37:23 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:38:24 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:39:07 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:40:16 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-21 18:41:21 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-21 18:41:47 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-21 18:42:08 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!

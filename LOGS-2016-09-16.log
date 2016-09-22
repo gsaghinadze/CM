@@ -1,0 +1,55 @@
+[INFO ] 2016-09-16 09:46:27 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 09:47:03 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 16:54:33 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 17:00:02 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 17:00:27 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 17:03:09 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 17:03:35 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:03:38 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:04:12 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:04:13 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 17:06:13 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 17:06:28 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 17:06:45 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:10 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:11 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:21 [http-nio-8080-exec-3] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:21 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:21 [http-nio-8080-exec-4] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:22 [http-nio-8080-exec-5] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:22 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 17:13:22 [http-nio-8080-exec-6] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 17:28:44 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 17:30:02 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 17:42:15 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 17:42:47 [http-nio-8080-exec-1] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 18:01:33 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 18:01:47 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 18:01:58 [http-nio-8080-exec-7] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 18:02:01 [http-nio-8080-exec-10] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 18:02:03 [http-nio-8080-exec-8] ge.com.cm.ctrl.CarController - selectcar called!!!
+[ERROR] 2016-09-16 18:02:03 [http-nio-8080-exec-9] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 18:07:05 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:07:21 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 18:07:41 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 18:08:54 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 18:09:02 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 18:10:17 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[ERROR] 2016-09-16 18:10:35 [http-nio-8080-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!
+[INFO ] 2016-09-16 18:14:28 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:16:31 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:17:56 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:20:22 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:22:35 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:32:57 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:42:06 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:45:02 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:48:53 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:50:39 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:54:20 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:56:24 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 18:57:46 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 19:00:51 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 19:06:33 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 19:08:06 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
+[INFO ] 2016-09-16 19:09:24 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
