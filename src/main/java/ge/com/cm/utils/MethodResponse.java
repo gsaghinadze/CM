@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 public class MethodResponse implements Serializable {
 
-	/**
-	 * 
-	 */
 	private static final long serialVersionUID = 1L;
 	
 	public static final MethodResponse SUCCESS = new MethodResponse();
@@ -21,7 +18,6 @@ public class MethodResponse implements Serializable {
 	public MethodResponse(){
 		setSuccess(true);
 		setErrorCode(0);
-		//logger();
 	}
 	
 	public MethodResponse(Object data){

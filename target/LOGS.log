@@ -1,2 +1,0 @@
-[INFO ] 2016-09-22 12:37:56 [main] ge.com.cm.App -  startup !!!!!!!!!!!!!!
-[ERROR] 2016-09-22 12:38:11 [http-nio-8090-exec-2] ge.com.cm.ctrl.CarController - selectcar called!!!

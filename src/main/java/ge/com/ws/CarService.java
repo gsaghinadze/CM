@@ -62,7 +62,7 @@ public class CarService {
         if(date == null) {
             date = new Date();
         }
-        Query q = em.createQuery("from Car c where c.isActive = 1 and not exists(select 1 from Route r where r.carId = c.id and :filterDate between r.startTime and r.finishTime)");
+        Query q = em.createQuery("from Car c where c.isActive = 1 and not exists(select 1 from Route r where r.isActive = 1 and r.carId = c.id and :filterDate between r.startTime and r.finishTime)");
         
         q.setParameter("filterDate", date);
                 

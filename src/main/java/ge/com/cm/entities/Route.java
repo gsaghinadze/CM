@@ -13,7 +13,9 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.Table;
+import org.hibernate.annotations.Type;
 import org.hibernate.envers.Audited;
+import org.springframework.format.annotation.DateTimeFormat;
 
 /**
  *
@@ -36,10 +38,12 @@ public class Route extends BaseEntity implements Serializable {
     private Integer driverId;
     
     @Column(name = "START_TIME", nullable = false)
-    private Date startTime;
+    @Type(type="date")
+    @DateTimeFormat(pattern = "yyyy-MM-dd") private Date startTime;
     
+    @Type(type="date")
     @Column(name = "FINISH_TIME", nullable = false)
-    private Date finishTime;
+    @DateTimeFormat(pattern = "yyyy-MM-dd") private Date finishTime;
     
     @Column(name = "STATUS", nullable = false)
     private Integer status;

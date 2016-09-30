@@ -40,6 +40,8 @@ public class RouteService {
         
         String where = " where r.isActive = 1";
         
+        String order = " order by r.startTime desc , r.id";
+        
         Map<String, Object> hm = new HashMap<String, Object>();
         
         
@@ -66,14 +68,14 @@ public class RouteService {
 
                     where += " and r.routeDescription like :search_" + i;
 
-                    hm.put("search_" + i, searchWord + "%");
+                    hm.put("search_" + i, "%" + searchWord + "%");
                     i++;
                 }
             }
         
         
         
-        Query q = em.createQuery(sql + where);
+        Query q = em.createQuery(sql + where + order);
         q.setFirstResult(p.getStart());
         q.setMaxResults(p.getLimit());
         
@@ -85,8 +87,8 @@ public class RouteService {
             qc.setParameter(entry.getKey(), entry.getValue());
         }
 
+        System.out.println("sql == " + sql + where + order);
         
-
         
         List<Route> routes = q.getResultList();
         Long totalCount = (Long)(qc.getResultList().get(0));

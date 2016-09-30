@@ -7,6 +7,7 @@ package ge.com.cm.utils;
 
 import java.io.Serializable;
 import java.util.Date;
+import org.springframework.format.annotation.DateTimeFormat;
 
 /**
  *
@@ -18,7 +19,7 @@ public class GridParams implements Serializable {
     private Integer limit;
     private String filterRouteDesc;
     private Integer filterCarId;
-    private Date filterDate;
+    private @DateTimeFormat(pattern = "yyyy-MM-dd") Date filterDate;
 
     public Integer getStart() {
         return start;
