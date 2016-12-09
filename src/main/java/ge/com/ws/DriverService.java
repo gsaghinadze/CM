@@ -5,18 +5,23 @@
  */
 package ge.com.ws;
 
-import ge.com.cm.entities.Car;
+import ge.com.cm.App;
 import ge.com.cm.entities.Driver;
+import java.util.Date;
 import java.util.List;
 import javax.persistence.EntityManager;
 import javax.persistence.LockModeType;
 import javax.persistence.PersistenceContext;
 import javax.transaction.Transactional;
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.springframework.stereotype.Service;
 
 
 @Service
 public class DriverService {
+    
+    private static final Logger logger = LogManager.getLogger(App.class);
     @PersistenceContext
     private EntityManager em;
     
@@ -27,7 +32,7 @@ public class DriverService {
     
     @Transactional(Transactional.TxType.REQUIRED)
     public void editDriver(Driver p) {
-        
+        logger.info(System.currentTimeMillis() + " Edit driver starts");
         Driver driver = null;
         if (p.getId() == null){
            driver = new Driver();
@@ -44,7 +49,10 @@ public class DriverService {
         driver.setAddress(p.getAddress());
         driver.setPhone(p.getPhone());
         
-        em.merge(driver);           
+        logger.info(System.currentTimeMillis() + " driver parameters set");
+        em.merge(driver);
+        em.flush();
+        logger.info(System.currentTimeMillis() + " merged driver into database");
     }
 
     @Transactional(Transactional.TxType.REQUIRED)

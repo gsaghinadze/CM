@@ -10,12 +10,10 @@ import ge.com.cm.entities.Driver;
 import ge.com.cm.utils.MethodResponse;
 import ge.com.ws.CarService;
 import ge.com.ws.DriverService;
-import java.io.IOException;
+import java.util.Date;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
@@ -47,6 +45,16 @@ public class MainController {
         mp.put("drivers", drivers);
         
         return new MethodResponse(mp);
+    }
+    
+    
+    @ResponseBody
+    @RequestMapping(method = RequestMethod.GET, path = "/getDate")
+    public MethodResponse getDate() {
+        
+        Date date = new Date();
+        
+        return new MethodResponse(date);
     }
     
     

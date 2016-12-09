@@ -37,6 +37,7 @@ public class DatabaseConfig {
         jpaProperties.put("hibernate.dialect", "org.hibernate.dialect.MySQL5Dialect");
         jpaProperties.put("hibernate.show_sql", true); // logs every sql query if true
         jpaProperties.put("hibernate.format_sql", true);
+        jpaProperties.put("hibernate.temp.use_jdbc_metadata_defaults", true);
         jpaProperties.put("org.hibernate.envers.store_data_at_delete", true);
         // jpaProperties.put("hibernate.physical_naming_strategy", "core.util.ImprovedNamingStrategy");
         entityManagerFactory.setJpaPropertyMap(jpaProperties);
@@ -61,7 +62,7 @@ public class DatabaseConfig {
         dataSource.setMinIdle(10);
         dataSource.setMaxIdle(100);
         dataSource.setMaxActive(100);
-        dataSource.setRemoveAbandoned(true);
+        //dataSource.setRemoveAbandoned(true);
         return dataSource;
     }
 }
